@@ -14,4 +14,4 @@
 - ML Prediction System
 
 ## 📫 Contact
-- Email: pedroalmeida.dev.ai@gmail.com
+- Email: pedroalmeidadev.ai@gmail.com
